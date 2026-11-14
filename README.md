@@ -1,85 +1,86 @@
-<div align="center">
+<img align="left" src="https://flagcdn.com/w160/ke.png" width="8%" style="display:inline;"><img align="right" src="https://flagcdn.com/w160/ke.png" width="8%" style="display:inline;">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=1100&color=39D353&center=true&vCenter=true&width=640&height=40&lines=%24+whoami;mechatronics+engineer+%7C+firmware+%2B+hardware+%2B+software;if+it+moves%2C+I+want+to+know+why;sense+%E2%86%92+decide+%E2%86%92+actuate" alt="typing banner" />
-
-</div>
-
-```text
-[  OK  ] mounted /dev/coffee
-[  OK  ] loaded module: embedded_c
-[  OK  ] loaded module: android_internals
-[  OK  ] loaded module: linux_tooling
-[ WARN ] sleep.service: not found
-[  OK  ] reached target: building_things
-```
-
-## // DATASHEET
-
-| Parameter        | Value                                                        |
-| ---------------- | ------------------------------------------------------------ |
-| Part number      | `Andreaz254`                                                 |
-| Discipline       | Mechatronics: mechanics, electronics, control, code          |
-| Location         | Nyeri, Kenya (UTC+03:00)                                     |
-| Operating mode   | Reads the source, then the datasheet, then the source again  |
-| Currently on     | `nanika`: Android tunnel client (SSH / VLESS / VMess)        |
-| Learning         | <!-- EDIT: e.g. RTOS, PID tuning, KiCad, Rust -->            |
-| Ask me about     | <!-- EDIT: e.g. VPN internals, sensors, motor drivers -->    |
-| Reach me         | <!-- EDIT: email or link -->                                 |
-
-## // SIGNAL CHAIN
-
-```mermaid
-flowchart LR
-    S[Sensors] --> C[Condition<br/>filter / ADC]
-    C --> M[Controller<br/>MCU / phone / Pi]
-    M --> D[Driver<br/>H-bridge / MOSFET]
-    D --> A[Actuator]
-    A -. feedback .-> S
-```
-
-## // TOOLBOX
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,kotlin,bash,arduino,raspberrypi,linux,git,androidstudio,vscode&theme=dark" alt="tools" />
-</p>
-
-<!-- Tools without an icon: edit freely -->
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
-![CAD](https://img.shields.io/badge/CAD-SolidWorks%20%2F%20Fusion-444?style=flat-square)
-![MCU](https://img.shields.io/badge/MCU-STM32%20%7C%20ESP32%20%7C%20AVR-444?style=flat-square)
-![Protocols](https://img.shields.io/badge/bus-I2C%20%7C%20SPI%20%7C%20UART%20%7C%20CAN-444?style=flat-square)
-
-## // TELEMETRY (live, refreshed by GitHub on every page load)
-
+<h1 align="center">Hi 👋, I'm Andreaz</h1>
+<h3 align="center">A passionate Programmer from Kenya</h3>
+<p align="center">I am fascinated by how computer technology 🌐 has changed our lives in ways nobody could have predicted. Watching computer science expand pushed me toward software engineering early on, and my enthusiasm has only grown since. I love exploring new tech stacks 💻 and using them to build cool stuff 🛠️</p>
 <p align="center">
-  <img src="https://ghchart.rshah.org/39d353/Andreaz254" alt="contribution calendar" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=ANdreaz254&label=Profile%20views&color=0e75b6&style=flat" alt="ANdreaz254 profile views" />
 </p>
 
+<!-- Header icons (skillicons.dev is reliable; the old techstack-generator.vercel.app links return 402) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andreaz254&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&area_color=39d353&hide_border=true&custom_title=commits%20per%20day" alt="activity graph" width="100%" />
+  <img src="https://skillicons.dev/icons?i=java,py,ts,js,react,mysql" alt="languages and frameworks" />
 </p>
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Andreaz254&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&count_private=true&custom_title=system%20status" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreaz254&layout=compact&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&custom_title=language%20mix" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,github,git,postman,linux" alt="tools" />
 </p>
 
+<br>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
+
+- 🔭 I’m currently open to a new job
+
+- 🌱 I’m currently learning **DevOps**
+
+- 👨‍💻 All of my projects are available on [my GitHub repositories](https://github.com/ANdreaz254?tab=repositories)
+
+- 💬 Ask me about **Java, Python, PHP and NodeJS**
+
+- 📫 How to reach me: **your-email@example.com**
+
+- ⚡ Fun fact: **I think I'm funny**
+
+<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" /></a>
+  <a href="https://stackoverflow.com/users/YOUR-ID" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow" width="40" /></a>
+  <a href="https://github.com/ANdreaz254" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" /></a>
+  <a href="https://instagram.com/YOUR-HANDLE" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" /></a>
+  <a href="https://youtube.com/@YOUR-CHANNEL" target="_blank"><img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" width="40" /></a>
+</p>
+<br>
+
+<h3 align="left">Languages and Tools:</h3>
+
+- Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" alt="backend" />
+</p>
+
+- Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" alt="frontend" />
+</p>
+
+- Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" alt="database" />
+</p>
+
+- Cloud Servers
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" alt="cloud" />
+</p>
+
+- Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" alt="tools" />
+</p>
+
+<br/>
+
+<h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Andreaz254&theme=dark&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ANdreaz254&show_icons=true&theme=midnight-purple" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=ANdreaz254&theme=midnight-purple" alt="GitHub streak" />
 </p>
 
-## // ON THE BENCH
+<br>
 
-<a href="https://github.com/Andreaz254/nanika">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Andreaz254&repo=nanika&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" alt="nanika" />
-</a>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b>, so if you want to say <b>hi, I'll be happy to meet you!</b> :)</em>
 
-<!-- Add more pins by copying the block above and changing repo=... -->
-
-<div align="center">
-
-<sub>`/* no workflow, no cron, no bots. Just URLs that GitHub fetches live. */`</sub>
-
-<img src="https://komarev.com/ghpvc/?username=Andreaz254&style=flat-square&color=39d353&label=PROBE+HITS" alt="views" />
-
-</div>
+<br>
+<p align="right">Created with 🧡 by <a href="https://github.com/ANdreaz254">ANdreaz254</a></p>
