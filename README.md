@@ -1,6 +1,6 @@
 <img align="left" src="https://flagcdn.com/w160/ke.png" width="8%" style="display:inline;"><img align="right" src="https://flagcdn.com/w160/ke.png" width="8%" style="display:inline;">
 
-<h1 align="center">Hi 👋, I'm Andreaz</h1>
+<h1 align="center">Hi 👋, I'm Andrew Nduba</h1>
 <h3 align="center">A passionate Programmer from Kenya</h3>
 <p align="center">I am fascinated by how computer technology 🌐 has changed our lives in ways nobody could have predicted. Watching computer science expand pushed me toward software engineering early on, and my enthusiasm has only grown since. I love exploring new tech stacks 💻 and using them to build cool stuff 🛠️</p>
 <p align="center">
