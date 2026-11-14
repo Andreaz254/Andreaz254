@@ -35,8 +35,8 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" /></a>
-  <a href="https://stackoverflow.com/users/YOUR-ID" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow" width="40" /></a>
+  <a href="https://linkedin.com/in/andrew-nduba-a97005431" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" /></a>
+  <a href="https://meta.stackoverflow.com/users/31042448/andrew-nduba" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow" width="40" /></a>
   <a href="https://github.com/ANdreaz254" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" /></a>
   <a href="https://instagram.com/YOUR-HANDLE" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" /></a>
   <a href="https://youtube.com/@YOUR-CHANNEL" target="_blank"><img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" width="40" /></a>
