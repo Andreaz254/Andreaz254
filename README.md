@@ -28,7 +28,7 @@
 
 - 💬 Ask me about **Java, Python, PHP and NodeJS**
 
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: **andreasvegasdkut@gmail.com**
 
 - ⚡ Fun fact: **I think I'm funny**
 
